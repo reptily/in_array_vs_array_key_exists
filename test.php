@@ -3,6 +3,8 @@ declare(strict_types = 1);
 
 /** @var int Количество элементов в массиве */
 const COUNT_ITEM = 1000000;
+
+/** @var int Какой элемент ищем */
 const SEARCH_ITEM = 999999;
 
 $inArray = [];
